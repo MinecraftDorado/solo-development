@@ -1,9 +1,17 @@
 ### Hey 👋, I'm [Solo!](https://www.spigotmc.org/members/solodevelopment.835321/)
 
+<a href="https://discord.gg/VDgAg9b">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
 <!--
 **solo-development/solo-development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while additionally producing free ones for the community. Besides programming, I fancy listening to music.
+
+<img align="right" alt="GIF" src="https://i.imgur.com/h8bncqp.gif" />
+
+**Statistics:**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
