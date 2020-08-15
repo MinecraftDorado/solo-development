@@ -2,10 +2,7 @@
 
 ### Hi 👋, my name is [Solo](https://www.spigotmc.org/members/solodevelopment.835321/).
 
-<br />
-<br />
-
-Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while additionally producing free ones for the community. Besides programming, I fancy listening to music.
+A Java Engineer from the US freelancing Minecraft projects, while additionally producing free ones for the community. Besides programming, I fancy listening to music.
 
 ****
 
