@@ -9,7 +9,7 @@
 
 Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while additionally producing free ones for the community. Besides programming, I fancy listening to music.
 
-[![]https://img.shields.io/badge/-keff-333333?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAgMTIwIj48c3R5bGU+LnN0MHtmaWxsOiNmZmZ9LnN0MXtmaWxsOiNmZmZ9PC9zdHlsZT48cGF0aCBjbGFzcz0ic3QwIiBkPSJNODQuNCA5My44VjcwLjZoNy43djMwLjlIMjIuNlY3MC42aDcuN3YyMy4yeiIvPjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik0zOC44IDY4LjRsMzcuOCA3LjkgMS42LTcuNi0zNy44LTcuOS0xLjYgNy42em01LTE4bDM1IDE2LjMgMy4yLTctMzUtMTYuNC0zLjIgNy4xem05LjctMTcuMmwyOS43IDI0LjcgNC45LTUuOS0yOS43LTI0LjctNC45IDUuOXptMTkuMi0xOC4zbC02LjIgNC42IDIzIDMxIDYuMi00LjYtMjMtMzF6TTM4IDg2aDM4LjZ2LTcuN0gzOFY4NnoiLz48L3N2Zz4=&style=flat-square)](https://stackoverflow.com/users/5900163/keff)
+****
 
 ### GitHub Statistics:
 
