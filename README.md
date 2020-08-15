@@ -9,7 +9,7 @@
 
 Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while additionally producing free ones for the community. Besides programming, I fancy listening to music.
 
-<img align="right" alt="GIF" src="https://i.imgur.com/h8bncqp.gif" />
+<img align="right" alt="GIF" src="https://i.imgur.com/puEwv0N.gif" />
 
 **Statistics:**
 
