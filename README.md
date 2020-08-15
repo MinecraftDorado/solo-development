@@ -11,10 +11,10 @@ Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while
 
 ### GitHub Statistics 📊
 
-![Solo's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=solo-development&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Solo's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=solo-development&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Languages I currently work with
 *Based solely on GitHub Repositories*
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solo-development&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solo-development&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
