@@ -11,9 +11,6 @@ Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while
 
 <img align="right" alt="GIF" src="https://i.imgur.com/puEwv0N.gif" />
 
-<br />
-<br />
-
 **Statistics:**
 
 - 🔭 I’m currently working on creating freemium Minecraft projects;
@@ -22,6 +19,9 @@ Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while
 - ⚡️ Fun-Fact: My username relates to my real name, Solo;
 - 🥇 Achievement: I have over 1,000 Minecraft plugin downloads;
 - 📫 How to reach me: $olo#0001 (Discord);
+
+<br />
+<br />
 
 **Languages and Tools:**
 
