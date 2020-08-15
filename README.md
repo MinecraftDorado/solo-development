@@ -9,8 +9,6 @@
 
 Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while additionally producing free ones for the community. Besides programming, I fancy listening to music.
 
-<img align="right" alt="GIF" src="https://media.tenor.com/images/f2624eff04dc3b2f84b8b3830fbdaa29/tenor.gif" />
-
 ### GitHub Statistics 📊
 
 ![Solo's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=solo-development&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -18,5 +16,5 @@ Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while
 ### Languages I currently work with
 *Based solely on GitHub Repositories*
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solo-development&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solo-development&layout=compact&title_color=fff&bg_color=151515)
 
