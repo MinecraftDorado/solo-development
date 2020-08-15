@@ -17,7 +17,7 @@ A Java Engineer from the US freelancing Minecraft projects, while additionally p
 ### Want to know more? Open the colapsible menu below :)
 
 <details>
-  <summary>Minecraft projects I manage/summary>
+  <summary>Minecraft projects I manage</summary>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solo-development&repo=PlayerPoints)](https://github.com/solo-development/PlayerPoints)
 
