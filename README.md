@@ -1,8 +1,6 @@
-### Hi 👋, my name is [Solo](https://www.spigotmc.org/members/solodevelopment.835321/).
+****
 
-<a href="https://discord.gg/VDgAg9b">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+### Hi 👋, my name is [Solo](https://www.spigotmc.org/members/solodevelopment.835321/).
 
 <br />
 <br />
