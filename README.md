@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋, I'm [Solo!](https://www.spigotmc.org/members/solodevelopment.835321/)
 
 <!--
 **solo-development/solo-development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
