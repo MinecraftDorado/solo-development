@@ -16,5 +16,5 @@ Hi, I am Solo, a Java Engineer from the US freelancing Minecraft projects, while
 ### Languages I currently work with
 *Based solely on GitHub Repositories*
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solo-development&layout=compact&title_color=fff&bg_color=151515)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solo-development)](https://github.com/solo-development/github-readme-stats)
 
