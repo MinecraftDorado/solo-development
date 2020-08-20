@@ -10,7 +10,6 @@ A Java Engineer from the US freelancing Minecraft projects, while additionally p
 <div align="center">
     <img alt="Solo's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=solo-development&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
     &nbsp;&nbsp;&nbsp;
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solo-development&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </div>
 
 ****
